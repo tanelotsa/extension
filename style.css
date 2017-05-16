@@ -1,0 +1,7 @@
+::selection {
+  background: lightgreen;
+}
+
+::-moz-selection {
+  background: lightgreen;
+}
